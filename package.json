@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/cors": "^2.8.8",
+    "axios": "^0.21.0",
+    "cors": "^2.8.5",
+    "pusher": "^4.0.1"
+  }
+}
